@@ -1,3 +1,5 @@
+<div align="center">
+	
 # VivoosVR
 
 ## License
@@ -5,7 +7,8 @@
 [**BSD 3-Clause**](https://opensource.org/licenses/BSD-3-Clause)
 
 See [LICENSE](https://github.com/Oguzhankoksal/VivoosVR_Private/blob/master/LICENSE)
-
+	
+</div>
 ## About
 
 VivoosVR is a virtual treatment tool to assist in exposure therapy where participants are placed in a computer-generated 3D virtual world and guided through the selected environments, situations and conditions. 
