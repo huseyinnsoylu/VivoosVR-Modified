@@ -287,7 +287,7 @@ We are an open source project and your support is very important to us so that t
 
 ##  ⚠️ License
 
-Copyright (c) 2019-present [Fenny](https://github.com/fenny) and [Contributors](https://github.com/gofiber/fiber/graphs/contributors). `Fiber` is free and open-source software licensed under the [MIT License](https://github.com/gofiber/fiber/blob/master/LICENSE). Official logo was created by [Vic Shóstak](https://github.com/koddr) and distributed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) license (CC BY-SA 4.0 International).
+BURAYA LİSANS BİLGİLERİ VE DISCLAIMER GİRİLECEK
 
 **Third-party library licenses**
 
@@ -311,4 +311,4 @@ Copyright (c) 2019-present [Fenny](https://github.com/fenny) and [Contributors](
 
 - [wmi](https://github.com/StackExchange/wmi)
 
-- [dictpool](https://github.com/savsgio/dictpoo
+- [dictpool](https://github.com/savsgio/dictpool)
