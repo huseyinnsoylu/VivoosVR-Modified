@@ -30,6 +30,25 @@
 
 <br>
 
+## Table of Contents
+
+- [About](#about)
+
+- [Prerequisites](#prerequisites)
+
+- [Installation](#installation)
+
+- [Quickstart](#quickstart)
+
+- [Build Process](#build-process)
+
+- [Backers](#backers-)
+
+- [Sponsors](#sponsors-)
+
+- [Acknowledgments](#acknowledgments)
+	
+	
 
 ##  💡 About
 
